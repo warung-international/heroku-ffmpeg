@@ -1,6 +1,6 @@
 # heroku-ffmpeg
 
-Push: [![Test](https://github.com/warung-international/heroku-ffmpeg/workflows/Test/badge.svg?branch=master&event=push)](https://github.com/warung-international/heroku-ffmpeg/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster)  
+[![Test](https://github.com/warung-international/heroku-ffmpeg/workflows/Test/badge.svg?branch=master&event=push)](https://github.com/warung-international/heroku-ffmpeg/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster)  
 
 > This is a fork of the [original repository](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest). All thanks to the past contributors.
 
